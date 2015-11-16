@@ -1,6 +1,6 @@
 ## Init Angular
 
-A starter to Angular apps.
+A starter to MEAN apps.
 
 ### Install
 
